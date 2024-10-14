@@ -1,5 +1,5 @@
 # hello-git
 Przyklad do nauki
-##
-Credits
+## Credits
+
 tada
